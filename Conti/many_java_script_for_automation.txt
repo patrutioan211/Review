@@ -1,0 +1,7 @@
+- script pentru crearea porturilor intre anumite memorii
+- script pentru validarea unei componente de memorie.
+- script pentru crearea porturilor intre proiect si unele semnale speciale venite de la client.
+- script pentru afisarea unui raport depsre anumite conexiuni.
+- script pentru decodarea anumitor semnale
+- script pnetru generarea si maparea anumitor semnale
+++

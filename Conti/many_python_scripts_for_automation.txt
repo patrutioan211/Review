@@ -1,0 +1,9 @@
+- script pentru generarea unui raport de qac
+- script pentru trigger build proiect
+- script pentru a extrage anumite informatii venite de la client si a le integra in proiect
+- script pentru generare fisiere .bat
+- script pentru switch strap-uri in functie de build
+- script pentru a detalia evidenta fisierelor de pe proiect
+- script-uri pentru a aplica feature-urile venite de la client
+- script pentru server jenkins
+++
